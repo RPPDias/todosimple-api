@@ -1,0 +1,25 @@
+1) Requisitos estão em:
+
+https://docs.google.com/document/d/1EG142xCuYRWCi8jPswfEQcIe_nsnBKq60mCKUD5QAXg/edit?tab=t.0
+
+Iniciei com o link do gerador do Spring parametrizado já com as 5
+dependencias:
+Spring Boot DevTools
+Spring Web
+Spring Data JPA
+H2 Database
+MySQL Driver
+
+
+
+3) Ir na conta do Git 
+Git Bash não  exit sai
+Git CMD abre janela do DOS
+Git FAQ abre Chrome na página FAQ . 
+	Usar botão Sign in -> aparece Login com email e senha colocada 				pelo Google
+
+4) Criar uma pasta repositories no computador. Escolhi:
+
+C:\RD\IT\repositories
+
+5) Pegar o arquivo zipado criado com o initializr  e colocar nessa pasta.
